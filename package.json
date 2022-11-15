@@ -1,0 +1,19 @@
+{
+  "name": "data-and-apis",
+  "version": "1.0.0",
+  "description": "Working with data and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darko-bazalac/data-and-APIs.git"
+  },
+  "author": "Darko Bazalac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darko-bazalac/data-and-APIs/issues"
+  },
+  "homepage": "https://github.com/darko-bazalac/data-and-APIs#readme"
+}
